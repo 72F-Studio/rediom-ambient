@@ -14,6 +14,7 @@ credit and are listed with thanks.
 - `cafe.ogg`: "Café Atmo_loop.wav" by hannagreen, https://freesound.org/s/394702/, CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
 - `library.ogg`: "Room white noise - Room Ambience .wav" by Littleboot, https://freesound.org/s/147300/, CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
 - `fireplace.ogg`: "The Fireplace 3.wav" by nooneisreal, https://freesound.org/s/387128/, CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
+- `train_ride.ogg`: "Modern railway inside.wav" by Sindbad13, https://freesound.org/s/682531/, CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
 - `keyboard.ogg`: "Computer keyboard typing snippet mono [loop]" by cabled_mess, https://freesound.org/s/361639/, CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
 - `vinyl_crackle.ogg`: "Record Player Needle is dropped & Vinyl crackling" by Breviceps, https://freesound.org/s/556722/, CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
 - `study_room.ogg`: "Students at the Library, Whispering at Bibliothèque Nationale de France - Richelieu (Oval Room)" by alberto_cendra_woodman, https://freesound.org/s/742477/, CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
@@ -21,3 +22,4 @@ credit and are listed with thanks.
 - `tea_house.ogg`: "Café Atmo_loop.wav" by hannagreen, https://freesound.org/s/394702/, CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
 - `cathedral.ogg`: "cathedral ambience 02.flac" by klankbeeld, https://freesound.org/s/170689/, CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
 - `space_hum.ogg`: "ambient spacecraft hum" by AlaskaRobotics, https://freesound.org/s/221570/, CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
+- `reading_hall.ogg`: "Quiet library ambience" by xkeril, https://freesound.org/s/620683/, CC0 1.0, https://creativecommons.org/publicdomain/zero/1.0/
